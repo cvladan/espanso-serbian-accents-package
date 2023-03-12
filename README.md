@@ -1,7 +1,4 @@
-||
-|---|
-| To learn more, please refer to the [README.md](serbian-accents/README.md) file. |
-||
+> To learn more, please refer to the [README.md](serbian-accents/README.md) file inside subfolder.
 
 # Espanso Package: Serbian Accent Letters
 
