@@ -1,10 +1,9 @@
-# Espanso Package: Serbian Accent Letters
-
-This package extends [Espanso](https://espanso.org) by providing accented Latin letters used in the Serbian language.
-
 | To learn more, please refer to the [README.md](serbian-accents/README.md) file. |
 |---|
 
+# Espanso Package: Serbian Accent Letters
+
+This package extends [Espanso](https://espanso.org) by providing accented Latin letters used in the Serbian language.
 
 ## Installation
 
