@@ -1,24 +1,25 @@
 # Espanso Package: Serbian Accent Letters
 
-Package to extend [Espanso](https://espanso.org) with accented latin letters used in Serbian language.
-Read more in [README.md](serbian-accents/README.md)
+This package extends [Espanso](https://espanso.org) by providing accented Latin letters used in the Serbian language.
+
+| To learn more, please refer to the [README.md](serbian-accents/README.md) file. |
+|---|
+
 
 ## Installation
 
-Please make sure that you have already installed [Espanso](https://espanso.org/install) and then install as Espanso package.
-
-Install from Espanso Hub:
+Before installing this package, please ensure that you have already installed [Espanso](https://espanso.org/install). To install from the [Espanso Hub](https://hub.espanso.org/), run the following command:
 
 ```sh
 espanso install serbian-accents
 ```
 
-Or directly from this repository:
+Alternatively, you can install the package directly from it's repository using the following command:
 
 ```sh
 espanso install serbian-accents --git https://github.com/cvladan/espanso-serbian-accents-package --external
 ```
 
-For the secondmethod you need to have valid `git` installed.
+Please note that you need to have a valid Git installation for the second method.
 
-You can now start using the package.
+You are now ready to start using the package.

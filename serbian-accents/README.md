@@ -10,17 +10,27 @@ In Serbian, the term "truncated" or "bald" letters (ošišana ili ćelava latini
 
 ## Installation
 
-Please make sure that you have already installed [Espanso](https://espanso.org/install) and then install as Espanso package.
+Before installing this package, please ensure that you have already installed [Espanso](https://espanso.org/install).
+
+To install package from the [Espanso Hub](https://hub.espanso.org/), run the following command:
 
 ```sh
 espanso install serbian-accents
 ```
 
-You can now start using the package.
+Alternatively, you can install the package directly from it's repository using the following command:
+
+```sh
+espanso install serbian-accents --git https://github.com/cvladan/espanso-serbian-accents-package --external
+```
+
+Please note that you need to have a valid Git installation for the second method.
+
+You are now ready to start using the package.
 
 ## Usage
 
-Simply type in the keyword and you will get the replacement. For capital letters, type in the same combination using capital letters and the replacement will also be capitalized.
+To get the desired replacement, simply type in the corresponding keyword and the package will automatically replace it with the correct accented Latin letter used in the Serbian language. If you need to capitalize the accented letter, type the combination in the capital letter and the package will automatically replace it with the corresponding capitalized accented letter.
 
 | Keyword                         | Replaced |
 | ------------------------------- | -------- |
@@ -32,8 +42,8 @@ Simply type in the keyword and you will get the replacement. For capital letters
 
 ## 📄 License
 
-This espanso package licensed under the [MIT](https://github.com/cvladan/espanso-serbian-accents-package/blob/main/LICENSE)
+This espanso package is licensed under the [MIT](https://github.com/cvladan/espanso-serbian-accents-package/blob/main/LICENSE)
 
-###### Synonyms and search tags
+###### Synonyms and Search Tags
 
 > letters with diacritical marks, diacritic letters, diacritics, diacritical marks, diacritical signs, accents, accent marks, accented characters, accents and diacritical marks, adding glyph to a letter
